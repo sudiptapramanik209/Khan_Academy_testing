@@ -1,0 +1,198 @@
+{
+  "start": "2023-05-27T08:19:03.572Z",
+  "end": "2023-05-27T08:25:58.869Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "sudipta",
+      "automationName": "UiAutomator2",
+      "appPackage": "org.khanacademy.android",
+      "appActivity": "org.khanacademy.android.ui.library.MainActivity"
+    },
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "automationName": "UiAutomator2",
+    "appPackage": "org.khanacademy.android",
+    "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+    "deviceUDID": "emulator-5554",
+    "deviceApiLevel": 26,
+    "platformVersion": "8.0.0",
+    "deviceScreenSize": "1080x2220",
+    "deviceScreenDensity": 440,
+    "deviceModel": "Android SDK built for x86",
+    "deviceManufacturer": "Google",
+    "pixelRatio": 2.75,
+    "statBarHeight": 66,
+    "viewportRect": {
+      "left": 0,
+      "top": 66,
+      "width": 1080,
+      "height": 2022
+    },
+    "sessionId": "46ff86cf-3fd8-484b-8795-8ac324570ead"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "",
+  "framework": "mocha",
+  "duration": 415297,
+  "suites": [
+    {
+      "title": "Mobile App Testing",
+      "duration": 414569,
+      "start": "2023-05-27T08:19:03.603Z",
+      "end": "2023-05-27T08:25:58.172Z",
+      "tests": [
+        {
+          "title": "Explore_Bookmarks",
+          "start": "2023-05-27T08:19:03.604Z",
+          "end": "2023-05-27T08:20:18.894Z",
+          "duration": 75290,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175547940.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175555928.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175557260.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175558230.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175574644.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175576809.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175584703.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175585393.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175603252.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175603925.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175615924.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175616613.jpeg"
+          ]
+        },
+        {
+          "title": "Verifying_Deleting_Bookmarks",
+          "start": "2023-05-27T08:20:18.905Z",
+          "end": "2023-05-27T08:20:40.396Z",
+          "duration": 21491,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175619632.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175628803.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175629383.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175630815.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175631361.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175633365.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175634113.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175635577.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175636282.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175638101.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175639037.jpeg"
+          ]
+        },
+        {
+          "title": "Video_recentLesson",
+          "start": "2023-05-27T08:20:40.398Z",
+          "end": "2023-05-27T08:21:17.985Z",
+          "duration": 37587,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175640563.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175641350.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175642158.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175643224.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175643941.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175645142.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175645971.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175675735.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175677911.jpeg"
+          ]
+        },
+        {
+          "title": "Setting",
+          "start": "2023-05-27T08:21:17.987Z",
+          "end": "2023-05-27T08:22:36.277Z",
+          "duration": 78290,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175679204.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175699965.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175701190.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175703562.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175704414.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175706082.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175707009.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175708435.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175709257.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175710672.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175711231.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175713048.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175714894.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175716418.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175717488.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175718786.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175719523.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175745156.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175746242.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175747964.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175748774.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175750325.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175751241.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175752573.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175753424.jpeg"
+          ]
+        },
+        {
+          "title": "Arts Humanities",
+          "start": "2023-05-27T08:22:36.283Z",
+          "end": "2023-05-27T08:25:54.067Z",
+          "duration": 197784,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175757395.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175806203.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175807744.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175834487.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175837859.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175927737.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175929188.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175937400.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175939514.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175948160.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175949104.jpeg"
+          ]
+        },
+        {
+          "title": "App switch",
+          "start": "2023-05-27T08:25:54.072Z",
+          "end": "2023-05-27T08:25:54.076Z",
+          "duration": 4,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "Closing",
+          "start": "2023-05-27T08:25:54.078Z",
+          "end": "2023-05-27T08:25:58.162Z",
+          "duration": 4084,
+          "state": "passed",
+          "screenshots": [
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175955265.jpeg",
+            "C:\\Users\\sudipta pramanik\\OneDrive\\Desktop\\Khan_Academy\\reports\\file-1685175956394.jpeg"
+          ]
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///C:/Users/sudipta%20pramanik/OneDrive/Desktop/Khan_Academy/Khan_Academy/Bookmark.js"
+  ],
+  "state": {
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0
+  }
+}
